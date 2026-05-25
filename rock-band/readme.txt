@@ -2,7 +2,7 @@
 Contributors: catchthemes
 Tags: one-column, two-columns, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-image-header, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, blog, entertainment, portfolio
 Requires at least: 5.9
-Tested up to: 6.9
+Tested up to: 7.0
 Requires PHP: 5.6
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -42,6 +42,9 @@ You can check our Theme Demo at https://catchthemes.com/demo/rock-band/
 For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
+
+= 2.2.5 (Released: May 25, 2026) =
+* Updated: WordPress 7.0 ready
 
 = 2.2.4 (Released: December 16, 2025) =
 * Updated: WordPress 6.9 ready
@@ -96,7 +99,7 @@ For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Copyright ==
 
-Rock Band WordPress Theme, Copyright 2012-2025 Catchthemes.com
+Rock Band WordPress Theme, Copyright 2012-2026 Catchthemes.com
 Rock Band is distributed under the terms of the GNU General Public License v3
 
 == Resources ==
